@@ -140,28 +140,20 @@ https://fontawesome.com/icons?d=gallery */
 };
 
 // Education Section
-
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: true,
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
-    },
-    {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      schoolName: "Oregon State University",
+      logo: require("./assets/images/osuLogo.svg").default,
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      duration: "September 2008 - January 2012",
+      desc: "Initially pursued a degree in Electrical Engineering before switching to Computer Science in junior year. Developed the first campus-wide mobile application, which was available for both iOS and Android.",
+      descBullets: [
+        "Built and deployed the first version of the campus-wide mobile app using Appcelerator Titanium",
+        "Gained foundational knowledge in both Electrical Engineering and Computer Science",
+        "Led a significant portion of the app's codebase for the initial launch on the AppStore and Google Play"
+      ]
     }
   ]
 };
