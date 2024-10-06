@@ -20,13 +20,12 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Alice Carasco",
+  title: "Hey, I'm Alice! Building seamless user experiences through code",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "As a Senior Software Engineer with over a decade of experience, I specialize in creating dynamic web applications using modern technologies like Vue, JavaScript, and .NET. From complex front-end interfaces to robust backend solutions, my goal is to craft user-friendly and accessible software that delivers real value."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://alice.tiiny.site/", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
