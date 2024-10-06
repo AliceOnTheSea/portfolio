@@ -64,56 +64,76 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      "skillName": "HTML5",
+      "fontAwesomeClassname": "fab fa-html5"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      "skillName": "CSS3",
+      "fontAwesomeClassname": "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      "skillName": "SASS",
+      "fontAwesomeClassname": "fab fa-sass"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      "skillName": "JavaScript",
+      "fontAwesomeClassname": "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      "skillName": "React",
+      "fontAwesomeClassname": "fab fa-react"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      "skillName": "Vue.js",
+      "fontAwesomeClassname": "fab fa-vuejs"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      "skillName": "Node.js",
+      "fontAwesomeClassname": "fab fa-node"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      "skillName": "NPM",
+      "fontAwesomeClassname": "fab fa-npm"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      "skillName": "SQL Databases",
+      "fontAwesomeClassname": "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      "skillName": "AWS",
+      "fontAwesomeClassname": "fab fa-aws"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
+      "skillName": "Docker",
+      "fontAwesomeClassname": "fab fa-docker"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      "skillName": ".NET",
+      "fontAwesomeClassname": "fab fa-microsoft"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      "skillName": "C#",
+      "fontAwesomeClassname": "fas fa-code"
+    },
+    {
+      "skillName": "Git",
+      "fontAwesomeClassname": "fab fa-git-alt"
+    },
+    {
+      "skillName": "Jira",
+      "fontAwesomeClassname": "fab fa-jira"
+    },
+    {
+      "skillName": "WordPress",
+      "fontAwesomeClassname": "fab fa-wordpress"
+    },
+    {
+      "skillName": "Amazon S3",
+      "fontAwesomeClassname": "fas fa-cloud"
+    },
+    {
+      "skillName": "EC2",
+      "fontAwesomeClassname": "fas fa-server"
     }
   ],
   display: true // Set false to hide this section, defaults to true
